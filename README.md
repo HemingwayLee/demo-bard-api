@@ -1,5 +1,6 @@
 # demo-bard-api
-* How to run
+## How to run
+* [Setup keys](https://github.com/dsdanielpark/Bard-API/issues/99)  
 ```
 pip3 install -r requirements.txt
 python3 hello.py
