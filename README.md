@@ -1,11 +1,12 @@
 # demo-bard-api
-* How to run
+## How to run
+* [Setup keys](https://github.com/dsdanielpark/Bard-API/issues/99)  
 ```
 pip3 install -r requirements.txt
 python3 hello.py
 ```
 
-* Result
+* Result of `hello.py`
 ```
 Sure. Here is a Japanese sentence that contains "ラーメン":
 
@@ -35,4 +36,30 @@ Sure, here are two Japanese sentences that contain "年":
    This sentence means "There will be an Olympics this year."
 ```
 
+* Result of `hello2.py`
+```
+はい、こちらです。
+
+```
+[明日は、東京で朝から雨が降るそうです。]
+```
+
+この文は、文字「a」を2回含んでいます。
+
+また、もう少し長い文もいくつか挙げます。
+
+
+[アメリカのニューヨーク市にある自由の女神は、世界三大女神像の一つです。]
+
+
+この文は、文字「a」を3回含んでいます。
+
+```
+[アルファベットの最初の文字は、Aです。]
+```
+
+この文は、文字「a」を1回含んでいます。
+
+他にも、さまざまな文が考えられます。
+```
 
